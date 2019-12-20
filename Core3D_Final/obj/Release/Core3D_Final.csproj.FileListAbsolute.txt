@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\bin\Release\Core3D_Final.exe.config
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\bin\Release\Core3D_Final.exe
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\bin\Release\Core3D_Final.pdb
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\bin\Release\FK_CLI.dll
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\obj\Release\Core3D_Final.exe
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\obj\Release\Core3D_Final.pdb
+C:\Users\Admin\Desktop\M0114385\Core3D_Final\Core3D_Final\obj\Release\Core3D_Final.csprojResolveAssemblyReference.cache
